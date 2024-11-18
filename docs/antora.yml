@@ -1,4 +1,4 @@
 name: ROOT
 title: Test 3 Documentation
 version: '3.0'
-start_page: modules/ROOT/pages/index.adoc
+start_page: modules/ROOT/pages
