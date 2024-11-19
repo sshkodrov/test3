@@ -1,6 +1,6 @@
 name: ROOT
 title: Test 3 Documentation
-start_page: ROOT::index.adoc
+start_page: 'index.adoc'
 version: ~
 content:
   start_page: "index.adoc" 
