@@ -2,3 +2,5 @@ name: test3
 title: ' Test 3 Documentation '
 version: ~
 start_page: named-module:index.adoc
+nav:
+- modules/named-module/pages/nav.adoc
