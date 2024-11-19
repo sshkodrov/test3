@@ -1,4 +1,4 @@
 name: ROOT
 title: Test 3 Documentation
 version: ~
-start_page: index.adoc
+start_page: "index.adoc"
